@@ -1,0 +1,23 @@
+{
+    "name": "akill/rajaongkirlaravel",
+    "description": "Raja Ongkir API Laravel 5",
+    "keywords": [
+        "rajaongkir", "program aplikasi", "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Muhammad Akil",
+            "email": "akil.dcc@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"akill\\rajaongkirlaravel\\": "src/"
+    	}
+    },
+    "require": {
+    	"illuminate/support": "~5"
+    }
+}
