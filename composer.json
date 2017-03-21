@@ -1,5 +1,5 @@
 {
-    "name": "akill/rajaongkirlaravel",
+    "name": "akill/akillrajaongkir",
     "description": "Raja Ongkir API Laravel 5",
     "keywords": [
         "rajaongkir", "program aplikasi", "laravel"
@@ -14,7 +14,7 @@
     ],
     "autoload": {
     	"psr-4": {
-    		"akill\\rajaongkirlaravel\\": "src/"
+    		"akill\\akillrajaongkir\\": "src/"
     	}
     },
     "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace akill\rajaongkirlaravel;
+namespace akill\akillrajaongkir;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace akill\rajaongkirlaravel\app;
+namespace akill\akillrajaongkir\app;
 
 class Cost extends Api {
 	public function __construct($attributes){

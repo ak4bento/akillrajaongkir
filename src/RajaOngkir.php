@@ -1,10 +1,10 @@
 <?php
 
-namespace akill\rajaongkirlaravel;
+namespace akill\akillrajaongkir;
 
-use akill\rajaongkirlaravel\app\Provinsi;
-use akill\rajaongkirlaravel\app\Kota;
-use akill\rajaongkirlaravel\app\Cost;
+use akill\akillrajaongkir\app\Provinsi;
+use akill\akillrajaongkir\app\Kota;
+use akill\akillrajaongkir\app\Cost;
 
 class RajaOngkir {
 	public function Provinsi(){
